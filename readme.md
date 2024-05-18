@@ -46,7 +46,7 @@ This roadmap provides a structured approach to learning AI and ML, covering esse
   <a href="https://www.linkedin.com/in/syed-mohsin-bukhari/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/ArraySurvey">
+  <a href="https://twitter.com/DrabDotMe">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
   <a href="https://github.com/mayourbukhari">
